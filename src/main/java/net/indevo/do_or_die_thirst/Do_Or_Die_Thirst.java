@@ -28,6 +28,7 @@ import net.minecraftforge.fml.loading.FMLEnvironment;
 @Mod(Do_Or_Die_Thirst.ID)
 public class Do_Or_Die_Thirst
 {
+
     public static final String ID = "thirst";
 
     public Do_Or_Die_Thirst()
